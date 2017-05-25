@@ -8,6 +8,7 @@ public class Testing : MonoBehaviour {
 	void Start () {
 		print("Wubba lubba dub dub!");
 		print("Sex robot for my grandson");
+		print("Added this form my lovely Asus");
 	}
 	
 	// Update is called once per frame
