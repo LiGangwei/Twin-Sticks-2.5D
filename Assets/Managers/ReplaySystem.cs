@@ -25,7 +25,7 @@ public class ReplaySystem : MonoBehaviour {
 		} else {
 			Record();
 		}
-		print(keyFrames[0].position);
+//		print(keyFrames[0].position);
 	}
 
 	void Playback() {

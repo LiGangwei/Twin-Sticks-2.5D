@@ -6,6 +6,9 @@ using UnityStandardAssets.CrossPlatformInput;
 public class GameManager : MonoBehaviour {
 	public bool isPlayingBack = false;
 
+	void Start() {
+	}
+
 	void Update() {
 		if(CrossPlatformInputManager.GetButton("Fire1")) {
 			isPlayingBack = true;
